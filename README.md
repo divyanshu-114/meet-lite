@@ -1,4 +1,4 @@
-# Meet Lite ⚡
+# Meet Lite 
 
 Meet Lite is a lightweight, modern group video calling application featuring crystal-clear video, screen sharing, and ephemeral chat. Designed with a premium dark glassmorphism UI and a stunning 3D interactive background.
 
